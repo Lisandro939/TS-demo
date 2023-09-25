@@ -1,6 +1,3 @@
 # TS-demo
 
-```javascript
-npm install
-```
-para comenzar el proyecto
+Abrir el archivo "index.html"
